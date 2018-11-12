@@ -1,0 +1,13 @@
+.flight-block{
+  border-bottom: 1px solid black;
+}
+
+.fligh-field{
+  width: 100px;
+  height: 100px;
+}
+
+.direction {
+  width: 1200px;
+  font-weight: bolder;
+}
